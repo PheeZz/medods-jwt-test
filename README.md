@@ -17,3 +17,6 @@ go run github.com/pheezz/medods-jwt-test/cmd/medods-jwt-test
 
 - GET 127.0.0.1:8080/keyPair?GUID={GUID}
 - POST 127.0.0.1:8080/refreshPair
+
+## Связь
+- [Telegram](https://t.me/pheezz)
